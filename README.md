@@ -11,8 +11,6 @@ A modern, responsive website for service providers with a focus on **user experi
 
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript
-- Backend: Node.js + Express
-- Database: MySQL / MongoDB (optional)
 - Deployment: Netlify (frontend) + Railway (backend)
 
 ## Demo
