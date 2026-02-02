@@ -13,8 +13,11 @@ A modern, responsive website for service providers with a focus on **user experi
 - Frontend: HTML, CSS, JavaScript
 - Deployment: Netlify (frontend) + Railway (backend)
 
-## Demo
-[View Live Demo](#) 
+## Screenshots
+![service provider platform](images/home.png)
+![service provider platform](images/contact.png)
+![service provider platform](images/service.png)
+![service provider platform](images/book.png)
 
 ## Why it Matters
 A clean and organized service website enhances credibility, improves client conversion, and simplifies management for service providers.
